@@ -1,0 +1,49 @@
+. {
+background-color: #050508;
+}
+
+.container{
+    border: solid black;
+    background: #11002c; 
+    background: -webkit-linear-gradient(to right, #474970, #1c3279);
+    background: linear-gradient(to right, #476b8d, #201350);
+    margin-top: 1%;
+    margin-bottom: 5%;
+    height: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#header{
+    font-size: 3em;
+    font-style: italic;
+    margin-bottom: 00px;
+    margin-left: 585px;
+}
+
+#city-search{
+    text-align: center;
+    background-blend-mode: hue;
+    height: 5%;
+    margin-top: 1%;
+    padding-top: 10px;
+}
+
+#city{
+    height: 10%;
+    width: auto;
+    font: bolder;
+
+
+}
+
+#high{
+   height: 100px;
+   width: auto;
+   background-color: red;
+}
+
+#low{
+    height: 10%;
+    width: auto;
+    background-color: blue;
+}
